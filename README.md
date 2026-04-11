@@ -17,10 +17,9 @@ O principal objetivo do projeto é simular um site profissional para maquiadoras
 A página busca gerar conexão emocional com o público e incentivar o agendamento de serviços.
 
 ## 🛠️ Tecnologias Utilizadas
-
-HTML5 🟧
-CSS3 🟦
-JavaScript 🟨
+- HTML5 🟧
+- CSS3 🟦
+- JavaScript 🟨
 
 ## 🧩 Funcionalidades
 
